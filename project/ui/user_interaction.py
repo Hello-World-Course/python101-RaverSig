@@ -1,0 +1,6 @@
+name = input("Hi, please enter your name: ")
+print("Nice to meet you " + name)
+board_size = input("Please choose the board size: ")
+print("Ok, you chose " + board_size + " by " + board_size + " board")
+mine_number = input("How many mines would you like to have? ")
+print("Ok setting up a " + board_size + " by " + board_size + " board and " + mine_number + " mines will be planted, good luck")
